@@ -4,9 +4,9 @@
   数组方面的体主要对下标玩转即可，其中的思想例如双指针的思想，类似的题目有去除数组中的重复项，三数之和等等，
   由于多指针的出现，夹逼法则得到了很好的运用，而链表主要把握好next的指向即可，通常有些题解会创造一个虚拟节点，
   例如俩俩交换节点，合并有序的链表等，思维盗图整理如下
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/Week_01/images/Array.png)
+![image](http://github.com/DoddyApe-loveCat/-algorithm015/raw/master/Week_01/images/Array.png)
 ####第二章
   主要讲解栈以及队列，双端队列以及优先队列的特性，尤其是双端队列的使用，先订好头部和尾部对于解一道题具有重要的作用
   例如滑动窗口最大值，由于我没有预先定义好头尾，在做题的过程中直接将自己绕晕，这类题目的思想都十分巧妙，没有规律可循，
   困难题，直接五毒，不要死想，只需要牢牢记住这四个数据结构的特性即可
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/Stack.png)
+![image](http://github.com/DoddyApe-loveCat/-algorithm015/raw/master/Week_01/images/Stack.png)
